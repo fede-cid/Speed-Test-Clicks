@@ -1,0 +1,53 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body{
+  background-color: rgb(192, 192, 192);
+}
+
+.App{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding-top: 15px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.speedtest-logo-contenedor{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin:  20px;
+}
+
+.speedTest-logo{
+  height: 50px;
+}
+
+.contenedor-principal{
+  height: 550px;
+  min-width: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.texto{
+  font-weight: 500;
+  font-size: x-large;
+  width: 350px;
+  font-family: lato, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  justify-content: right;
+  align-items: right;
+  text-align: center;
+  margin-right: 10vw;
+  margin-left: -10%;
+}

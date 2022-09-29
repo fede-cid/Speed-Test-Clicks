@@ -1,0 +1,21 @@
+.contador2{
+    min-width: 300px;
+    height: 300px;
+    font-size: 19px;
+    padding: 25px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    justify-content: right;
+    border: 8px solid black;
+    box-shadow: 7px 7px 7px 7px;
+    margin-left: 2vw;
+    margin-top: -32%;
+    overflow-y: scroll;
+    font-weight: 700;
+    font-size: x-large;
+    font-family: lato, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
