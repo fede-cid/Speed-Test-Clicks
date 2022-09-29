@@ -3,11 +3,11 @@
     height: 300px;
     font-size: 160px;
     padding: 25px;
-    color: black;
+    color: rgb(255, 255, 255);
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 8px solid black;
+    border: 8px solid rgb(255, 255, 255);
     margin-bottom: 15px;
-    box-shadow: 7px 7px 7px 7px;
+    /* box-shadow: 7px 7px 7px 7px; */
 }
