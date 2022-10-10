@@ -6,7 +6,7 @@ import Contador from './componentes/Contador';
 
 import Contador2 from './componentes/Contador2';
 import Boton from './componentes/Boton';
-import speedTestLogo from './imagenes/SpeedTestLogo.png'
+import speedTestLogo from './imagenes/SpeedTestLogo2.png'
 import { useState, useRef } from 'react';
 
 function App() {
